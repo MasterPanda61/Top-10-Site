@@ -1,5 +1,5 @@
 .topnav {
-    background-color: #333;
+    background-color: #333333;
     overflow: hidden;
     font-family: arial;
     padding: 0;
@@ -7,7 +7,7 @@
 
 .topnav a {
     float: left;
-    color: #f2f2f2;
+    color: #6dd5ed;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -15,7 +15,7 @@
 }
 
 .topnav a:hover{
-    background-color: #ddd;
+    background-color: #99f2c8;
     color: black;
 }
  .topnav a:active{
@@ -23,7 +23,7 @@
  }
  .topnav .login-sign-up{
    float: right;
-   color: #f2f2f2;
+   color: #6dd5ed;
    text-align: center;
    padding: 14px 25px;
    text-decoration: none;
